@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "939540898516",
+    "project_id": "messenger-d5bc4",
+    "storage_bucket": "messenger-d5bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939540898516:android:4963847246da70e8561141",
+        "android_client_info": {
+          "package_name": "com.abhi.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939540898516-q4oihuudmpu62meci1qfmcpp4bqpbnlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZSZQKVvZxuKVkOepguFSDhc95hYR5zlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939540898516-q4oihuudmpu62meci1qfmcpp4bqpbnlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939540898516:android:939ed15dab1d00d3561141",
+        "android_client_info": {
+          "package_name": "com.abhi.messenger2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939540898516-q4oihuudmpu62meci1qfmcpp4bqpbnlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZSZQKVvZxuKVkOepguFSDhc95hYR5zlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939540898516-q4oihuudmpu62meci1qfmcpp4bqpbnlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
